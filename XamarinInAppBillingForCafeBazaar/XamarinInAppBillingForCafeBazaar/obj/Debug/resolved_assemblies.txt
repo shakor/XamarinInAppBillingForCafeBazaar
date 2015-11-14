@@ -1,0 +1,3 @@
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\XamarinInAppBillingForCafeBazaar.dll
+E:\Sharaf\Android\Learning\Cafebazaar Developer Documents\پرداخت درون برنامه ای\Xamarin\Programs\json.net-7.0.1\lib\android\Newtonsoft.Json.dll
+E:\Sharaf\Android\Learning\Cafebazaar Developer Documents\پرداخت درون برنامه ای\Xamarin\xamarin.inappbilling-2.2\lib\android\Xamarin.InAppBilling.dll

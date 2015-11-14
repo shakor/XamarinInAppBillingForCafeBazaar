@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="YourPackageUploadedInBazaar" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:targetSdkVersion="19" android:minSdkVersion="14" />
+  <uses-permission android:name="com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR" />
+  <uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="XamarinInAppBillingForCafeBazaar" android:icon="@drawable/Icon"></application>
+</manifest>

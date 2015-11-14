@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AzmonEstekhdami_4javabi.com" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:targetSdkVersion="19" android:minSdkVersion="14" />
+  <uses-permission android:name="com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="XamarinInAppBillingForCafeBazaar" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="XamarinInAppBillingForCafeBazaar" android:name="md5268b77b700dd3b6075377a26df699472.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AzmonEstekhdami_4javabi.com.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.AzmonEstekhdami_4javabi.com" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

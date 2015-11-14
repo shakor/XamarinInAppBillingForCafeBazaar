@@ -1,0 +1,15 @@
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\XamarinInAppBillingForCafeBazaar.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\XamarinInAppBillingForCafeBazaar.pdb
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\YourPackageUploadedInBazaar.YourPackageUploadedInBazaar.apk
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\YourPackageUploadedInBazaar.YourPackageUploadedInBazaar-Signed.apk
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\Newtonsoft.Json.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\Xamarin.InAppBilling.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\Newtonsoft.Json.xml
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\XamarinInAppBillingForCafeBazaar.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\XamarinInAppBillingForCafeBazaar.pdb
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\android\bin\YourPackageUploadedInBazaar.YourPackageUploadedInBazaar.apk
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\res\layout\main.xml
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\res\values\strings.xml
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\res\drawable\icon.png
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\R.cs.flag
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Release\uploadflags.txt

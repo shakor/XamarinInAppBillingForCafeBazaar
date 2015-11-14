@@ -1,0 +1,10 @@
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Release\XamarinInAppBillingForCafeBazaar.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+E:\Sharaf\Android\Learning\Cafebazaar Developer Documents\پرداخت درون برنامه ای\Xamarin\Programs\json.net-7.0.1\lib\android\Newtonsoft.Json.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.Linq.dll
+E:\Sharaf\Android\Learning\Cafebazaar Developer Documents\پرداخت درون برنامه ای\Xamarin\xamarin.inappbilling-2.2\lib\android\Xamarin.InAppBilling.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Runtime.Serialization.dll

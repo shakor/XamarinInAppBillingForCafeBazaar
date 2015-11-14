@@ -1,0 +1,17 @@
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\XamarinInAppBillingForCafeBazaar.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\XamarinInAppBillingForCafeBazaar.pdb
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\XamarinInAppBillingForCafeBazaar.dll.mdb
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\Newtonsoft.Json.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\Xamarin.InAppBilling.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\Newtonsoft.Json.xml
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\XamarinInAppBillingForCafeBazaar.csprojResolveAssemblyReference.cache
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\XamarinInAppBillingForCafeBazaar.dll
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\XamarinInAppBillingForCafeBazaar.pdb
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\res\layout\main.xml
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\res\values\strings.xml
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\res\drawable\icon.png
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\R.cs.flag
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\uploadflags.txt
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\AzmonEstekhdami_4javabi.com.apk
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\bin\Debug\AzmonEstekhdami_4javabi.com-Signed.apk
+E:\Sharaf\Android\VS2015\MyTest\XamarinInAppBillingForCafeBazaar\XamarinInAppBillingForCafeBazaar\obj\Debug\android\bin\AzmonEstekhdami_4javabi.com.apk
